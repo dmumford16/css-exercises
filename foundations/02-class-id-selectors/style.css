@@ -1,0 +1,19 @@
+p.odd {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #ffb6c1;
+}
+
+p.cooler{
+    font-size: 24px;
+}
+
+div#two{
+    color: rgb(0, 0, 255);
+    font-size: 24px;
+}
+
+div#four{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
